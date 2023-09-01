@@ -3,7 +3,7 @@
 Evento promovido pela [Digital Innovation One - DIO](https://www.dio.me/en), com patrocínio do [iFood](https://www.ifood.com.br/).
 
 <div align="right">
-  <img src="https://github.com/crobertocamilo/BD_sistema_aplicacao_provas_concurso_olimpiada_estudantil/raw/main/assets/logo.webpp" alt="logo bootcamp" width=30%/>
+  <img src="https://github.com/crobertocamilo/BD_sistema_aplicacao_provas_concurso_olimpiada_estudantil/blob/main/assets/logo.webp" alt="logo bootcamp" width=30%/>
 </div>
 
 --- 
@@ -12,5 +12,5 @@ Evento promovido pela [Digital Innovation One - DIO](https://www.dio.me/en), com
 <br>  
 
 <div align="center">
-  <img src="https://github.com/crobertocamilo/BD_sistema_aplicacao_provas_concurso_olimpiada_estudantil/blob/main/assets/prova_concurso_EER.png?raw=true" alt="Diagrama EER" width=100%/>
+  <img src="https://github.com/crobertocamilo/BD_sistema_aplicacao_provas_concurso_olimpiada_estudantil/blob/main/assets/prova_concurso_EER.png?raw=true" alt="Diagrama EER" width=85%/>
 </div>
